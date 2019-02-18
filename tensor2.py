@@ -16,6 +16,5 @@ def test1():  # 用Tensorflow计算a=(b+c)∗(c+2)
     print(sess.run(a))
 
 
-
 if __name__ == '__main__':
     test1()
